@@ -1,0 +1,1 @@
+python shadowsocks/server.py 1&2> conn.log &
